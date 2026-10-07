@@ -1,8 +1,8 @@
-const CardFeatures = () => {
+const CarFeatures = () => {
     return (
        <div>
         
        </div>
     )
 }
-export default CardFeatures
+export default CarFeatures

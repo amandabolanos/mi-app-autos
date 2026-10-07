@@ -8,7 +8,7 @@
     "mileage": 12500,
     "seats": 7,
     "type": "SUV",
-    "image": "/images/suv.jpg",
+    "image": "/images/suv.png",
     "featured": true,
     "description": "SUV versátil con espacio para siete pasajeros y equipamiento pensado para viajes largos.",
     "features": [
@@ -27,7 +27,7 @@
     "mileage": 18200,
     "seats": 5,
     "type": "Sedán",
-    "image": "/images/sedan.jpg",
+    "image": "/images/sedan.png",
     "featured": true,
     "description": "Sedán cómodo para la ciudad, con una conducción suave y una cabina espaciosa.",
     "features": [
@@ -46,7 +46,7 @@
     "mileage": 7000,
     "seats": 4,
     "type": "Deportivo",
-    "image": "/images/deportivo.jpg",
+    "image": "/images/sport.png",
     "featured": true,
     "description": "Diseño deportivo con detalles de alto contraste y respuesta ágil.",
     "features": [
@@ -65,7 +65,7 @@
     "mileage": 3900,
     "seats": 5,
     "type": "Eléctrico",
-    "image": "/images/electrico.jpg",
+    "image": "/images/electrico.png",
     "featured": false,
     "description": "Modelo eléctrico con interior moderno y conducción silenciosa.",
     "features": [
@@ -84,7 +84,7 @@
     "mileage": 26800,
     "seats": 7,
     "type": "SUV",
-    "image": "/images/suv.png",
+    "image": "/images/suv2.png",
     "featured": false,
     "description": "SUV familiar con tercera fila y espacio de carga adaptable.",
     "features": [
@@ -103,7 +103,7 @@
     "mileage": 21500,
     "seats": 5,
     "type": "Sedán",
-    "image": "/images/sedan.png",
+    "image": "/images/sedan2.png",
     "featured": false,
     "description": "Sedán compacto de fácil manejo para trayectos cotidianos.",
     "features": [
@@ -122,7 +122,7 @@
     "mileage": 14600,
     "seats": 5,
     "type": "Crossover",
-    "image": "/images/sedan.png",
+    "image": "/images/suv3.png",
     "featured": false,
     "description": "Crossover para recorridos urbanos y escapadas de fin de semana.",
     "features": [
@@ -141,7 +141,7 @@
     "mileage": 6200,
     "seats": 5,
     "type": "Híbrido",
-    "image": "/images/sedan.png",
+    "image": "/images/sedan3.png",
     "featured": false,
     "description": "Sedán híbrido con una cabina cómoda y equipamiento para el uso diario.",
     "features": [
@@ -160,7 +160,7 @@
     "mileage": 8500,
     "seats": 2,
     "type": "Deportivo",
-    "image": "/images/sport.png",
+    "image": "/images/sport2.png",
     "featured": false,
     "description": "Deportivo de dos plazas con una conducción ágil y acabados elegantes.",
     "features": [
@@ -179,7 +179,7 @@
     "mileage": 4100,
     "seats": 5,
     "type": "Eléctrico",
-    "image": "/images/electrico.jpg",
+    "image": "/images/electrico2.png",
     "featured": false,
     "description": "Auto eléctrico de cinco plazas con tecnología práctica para cada viaje.",
     "features": [
@@ -198,7 +198,7 @@
     "mileage": 32400,
     "seats": 5,
     "type": "Sedán",
-    "image": "/images/sedan.png",
+    "image": "/images/sedan4.png",
     "featured": false,
     "description": "Sedán de uso diario con amplio espacio interior y conducción confortable.",
     "features": [
@@ -217,7 +217,7 @@
     "mileage": 23700,
     "seats": 7,
     "type": "SUV",
-    "image": "/images/suv.png",
+    "image": "/images/suv4.png",
     "featured": false,
     "description": "SUV de siete pasajeros con espacio adaptable para la familia.",
     "features": [
